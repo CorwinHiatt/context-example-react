@@ -1,30 +1,56 @@
 
 body{
   text-align: center;
+  padding: 2% 2% 2% 2%;
 }
 
 
 header {
+  padding: 2% 2% 2% 2%;
+  border-radius: 10%;
+  background-color: rgba(240, 83, 83, 0.35) ;
   border: 2px solid red;
   margin: 1em;
 }
 
 main {
+  padding: 2% 2% 2% 2%;
+  border-radius: 10%;
+  background-color: rgb(224, 200, 246);
   border: 2px solid rgb(166, 5, 246);
   margin: 1em;
 }
 
 footer {
+  padding: 2% 2% 2% 2%;
+  color: rgb(4, 75, 11);
+  border-radius: 10%;
+  background-color: rgb(222, 250, 241);
   border: 2px solid rgb(13, 230, 104);
   margin: 1em;
 }
 
 nav {
+  padding: 2% 2% 2% 2%;
+  background-color: rgba(230, 122, 242, 0.907);
+  border-radius: 10%;
   border: 2px solid rgb(246, 5, 210);
   margin: 1em;
 }
 div {
-  border: 2px solid rgb(246, 105, 5);
+  padding: 2% 2% 2% 2%;
+  background-color: aqua;
+  border-radius: 10%;
+  border: 2px solid rgba(192, 243, 237, 0.345);
+  margin: 1em;
+
+}
+section {
+  padding: 2% 2% 2% 2%;
+  color: rgb(15, 14, 13);
+  border-radius: 10%;
+  background-color: rgba(247, 236, 121, 0.859);
+  border: 2px solid rgb(242, 242, 6);
   margin: 1em;
 
 }

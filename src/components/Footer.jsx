@@ -1,7 +1,11 @@
+import Logout from "./LogOut"
+
+
 export default function Footer() {
     return(
         <footer>
-            <p>footer</p>
+            <p>Footer</p>
+            <Logout/>
         </footer>
     )
 }
